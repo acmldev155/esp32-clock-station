@@ -1,0 +1,9 @@
+# Coloque isso no seu arquivo ~/.wakatime.cfg
+
+[configurações]
+api_url = https://hackatime.hackclub.com/api/hackatime/v1
+api_key = 327fe975-4128-484e-aed8-b4705f235caa
+heartbeat_rate_limit_seconds = 30
+
+# Quaisquer outras configurações do wakatime que você queira adicionar: https://github.com/wakatime/wakatime-cli/blob/develop/USAGE.md#ini-config-file
+Versã
